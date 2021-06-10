@@ -1,8 +1,5 @@
 # Prettier Config
 
-[![NPM][npm-version-img]][npm-url]
-[![NPM][npm-download-img]][npm-url]
-
 - [Prettier Config](#prettier-config)
   - [Getting started](#getting-started)
   - [Config](#config)
