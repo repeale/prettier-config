@@ -1,0 +1,32 @@
+{
+  "name": "@repeale/prettier-config",
+  "version": "0.0.1",
+  "description": "My personal prettier config",
+  "author": "Alessio Enrico Repetti <repeale@gmail.com>",
+  "homepage": "https://github.com/repeale/prettier-config#readme",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/repeale/prettier-config.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": ".prettierrc.json",
+  "files": [
+    ".prettierrc.json",
+    "CHANGELOG.md"
+  ],
+  "peerDependencies": {
+    "prettier": "*"
+  },
+  "devDependencies": {
+    "prettier": "*"
+  },
+  "keywords": [
+    "code-styles",
+    "formatter",
+    "prettier-config",
+    "prettier"
+  ]
+}
