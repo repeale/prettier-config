@@ -1,6 +1,6 @@
 {
   "name": "@repeale/prettier-config",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "My personal prettier config",
   "author": "Alessio Enrico Repetti <repeale@gmail.com>",
   "homepage": "https://github.com/repeale/prettier-config#readme",
