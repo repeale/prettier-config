@@ -1,7 +1,7 @@
 {
   "name": "@repeale/prettier-config",
-  "version": "1.0.0",
-  "description": "My personal prettier config",
+  "version": "1.0.1",
+  "description": "@repeale prettier config",
   "author": "Alessio Enrico Repetti <repeale@gmail.com>",
   "homepage": "https://github.com/repeale/prettier-config#readme",
   "license": "MIT",
