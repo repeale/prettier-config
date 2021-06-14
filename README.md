@@ -1,5 +1,7 @@
 # Prettier Config
 
+![npm](https://img.shields.io/npm/dt/@repeale/prettier-config?style=flat-square)
+
 - [Prettier Config](#prettier-config)
   - [Getting started](#getting-started)
   - [Config](#config)
