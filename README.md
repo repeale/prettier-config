@@ -9,16 +9,16 @@
 
 ## Getting started
 
-Install Prettier and the related configuration as a `devDependencies`:
+Install the package and related peerDependencies as `devDependencies`:
 
 ```sh
-npm install --save-dev @repeale/prettier-config
+npm install --save-dev @repeale/prettier-config prettier
 ```
 
 or
 
 ```sh
-yarn add --dev @repeale/prettier-config
+yarn add --dev @repeale/prettier-config prettier
 ```
 
 Reference `@repeale/prettier-config` in your package.json:

@@ -1,6 +1,6 @@
 {
   "name": "@repeale/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "@repeale prettier config",
   "author": "Alessio Enrico Repetti <repeale@gmail.com>",
   "homepage": "https://github.com/repeale/prettier-config#readme",
@@ -15,7 +15,9 @@
   "main": ".prettierrc.json",
   "files": [
     ".prettierrc.json",
-    "CHANGELOG.md"
+    "CHANGELOG.md",
+    "LICENCE",
+    "README.md"
   ],
   "peerDependencies": {
     "prettier": "^2.3.1"
