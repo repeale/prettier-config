@@ -1,3 +1,7 @@
+# v1.0.2
+
+- Fix peerDependencies and devDependencies with fixed version
+
 # v1.0.1
 
 - Switch `bracketSpacing` config to `false`
