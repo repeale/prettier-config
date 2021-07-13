@@ -1,6 +1,6 @@
 {
   "name": "@repeale/prettier-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "@repeale prettier config",
   "author": "Alessio Enrico Repetti <repeale@gmail.com>",
   "homepage": "https://github.com/repeale/prettier-config#readme",
@@ -20,10 +20,10 @@
     "README.md"
   ],
   "peerDependencies": {
-    "prettier": "^2.3.1"
+    "prettier": "^2.3.2"
   },
   "devDependencies": {
-    "prettier": "2.3.1"
+    "prettier": "2.3.2"
   },
   "keywords": [
     "code-styles",

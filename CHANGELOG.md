@@ -1,3 +1,7 @@
+# v1.0.4
+
+- Upgrade devDependencies and peerDependencies
+
 # v1.0.3
 
 - Include README.md and LICENSE in the package
