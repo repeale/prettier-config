@@ -31,6 +31,16 @@ Reference `@repeale/prettier-config` in your package.json:
 }
 ```
 
+or export the config from a `.prettierrc.js` file:
+
+```json
+module.exports = {
+  ...require('@repeale/prettier-config'),
+}
+```
+
+this will allow you to easilly overwrite options.
+
 Or, you can use it in other ways as described in the
 [official documentation](https://prettier.io/docs/en/configuration.html#sharing-configurations).
 
