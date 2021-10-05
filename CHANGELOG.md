@@ -1,3 +1,8 @@
+# v1.0.6
+
+- Prettier peerDependency upgrade to 2.4.1
+- Renamed `jsxBracketSameLine` prettier config into `bracketSameLine`
+
 # v1.0.5
 
 - Readme improvements
