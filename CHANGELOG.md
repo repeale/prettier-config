@@ -1,3 +1,7 @@
+# v1.0.7
+
+- Prettier peerDependency upgrade to 2.5.1
+
 # v1.0.6
 
 - Prettier peerDependency upgrade to 2.4.1
