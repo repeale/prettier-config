@@ -1,3 +1,7 @@
+# v1.0.8
+
+- Upgrade devDependencies and peerDependencies
+
 # v1.0.7
 
 - Prettier peerDependency upgrade to 2.5.1
